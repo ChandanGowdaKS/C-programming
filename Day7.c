@@ -2,6 +2,7 @@
 // #include <math.h>
 // #include <stdlib.h>
 
+// Just to Print 3 sentences in new lines
 // void main(){
 //     char ch;
 //     char s[100];
@@ -19,6 +20,8 @@
     
 // }
 
+// Function Creating
+
 // #include<stdio.h>
 // void sum();         // Function Delcaration
 
@@ -31,6 +34,9 @@
 // void main(){                // Function Calling
 //     sum();
 // }
+
+// Function creating
+
 
 // #include<stdio.h>
 // int add();
